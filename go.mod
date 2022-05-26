@@ -25,4 +25,12 @@ require (
 	gopkg.in/ini.v1 v1.44.0 // indirect
 	gopkg.in/macaron.v1 v1.3.2 // indirect
 	gopkg.in/redis.v2 v2.3.2 // indirect
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa // indirect
+	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
+	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
+	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
+	google.golang.org/appengine v1.6.7 // indirect
+	google.golang.org/genproto v0.0.0-20220426171045-31bebdecfb46 // indirect
+	google.golang.org/grpc v1.46.0 // indirect
+	google.golang.org/protobuf v1.28.0 // indirect
 )
